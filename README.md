@@ -152,7 +152,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 📞 İletişim & Destek
 
 - GitHub Issues: [Sorun bildirin](https://github.com/FatihEsen/SparkAI/issues)
-- Email: fatih@example.com
+- Email: fatihesen@gmail.com
 
 ---
 
