@@ -1,0 +1,6 @@
+{
+  "name": "SparkAI",
+  "description": "Yapay zeka destekli OBD2 telemetri, motor sesi simülatörü ve arıza teşhis uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

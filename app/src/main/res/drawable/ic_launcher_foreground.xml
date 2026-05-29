@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Turbo Scroll Outer Casing (Snail Shape) -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,23 C36.88,23 23,36.88 23,54 C23,71.12 36.88,85 54,85 C71.12,85 85,71.12 85,54 C85,46 81.5,39.5 76,34.5 L76,21 C76,19.34 74.66,18 73,18 L64,18 C62.34,18 61,19.34 61,21 L61,27.5 C58.7,24.5 56.5,23 54,23 Z M54,29 C67.8,29 79,40.2 79,54 C79,67.8 67.8,79 54,79 C40.2,79 29,67.8 29,54 C29,40.2 40.2,29 54,29 Z" />
+
+    <!-- Outer pipe details / flange -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M60,15 L77,15 C78.1,15 79,15.9 79,17 L79,19 C79,20.1 78.1,21 77,21 L60,21 C58.9,21 58,20.1 58,19 L58,17 C58,15.9 58.9,15 60,15 Z" />
+
+    <!-- Turbine impeller blades inside (High-Performance Red) -->
+    <!-- Central Hub -->
+    <path
+        android:fillColor="#FF2D55"
+        android:pathData="M54,49 C51.24,49 49,51.24 49,54 C49,56.76 51.24,59 54,59 C56.76,59 59,56.76 59,54 C59,51.24 56.76,49 54,49 Z" />
+
+    <!-- Blade 1 (Top) -->
+    <path
+        android:fillColor="#FF2D55"
+        android:pathData="M54,49 C54,49 51,40 54,34 C57,40 54,49 54,49 Z" />
+
+    <!-- Blade 2 (Right-Top) -->
+    <path
+        android:fillColor="#FF2D55"
+        android:pathData="M58.33,51.5 C58.33,51.5 66.12,46.5 69.32,52.04 C62.59,51.25 58.33,51.5 58.33,51.5 Z" />
+
+    <!-- Blade 3 (Right-Bottom) -->
+    <path
+        android:fillColor="#FF2D55"
+        android:pathData="M58.33,56.5 C58.33,56.5 66.12,61.5 62.92,67.04 C59.72,61.5 58.33,56.5 58.33,56.5 Z" />
+
+    <!-- Blade 4 (Bottom) -->
+    <path
+        android:fillColor="#FF2D55"
+        android:pathData="M54,59 C54,59 57,68 54,74 C51,68 54,59 54,59 Z" />
+
+    <!-- Blade 5 (Left-Bottom) -->
+    <path
+        android:fillColor="#FF2D55"
+        android:pathData="M49.67,56.5 C49.67,56.5 41.88,61.5 38.68,55.96 C45.41,56.75 49.67,56.5 49.67,56.5 Z" />
+
+    <!-- Blade 6 (Left-Top) -->
+    <path
+        android:fillColor="#FF2D55"
+        android:pathData="M49.67,51.5 C49.67,51.5 41.88,46.5 45.08,40.96 C48.28,46.5 49.67,51.5 49.67,51.5 Z" />
+
+</vector>
